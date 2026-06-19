@@ -1,0 +1,501 @@
+EmployeeID,Department,Salary,JoiningDate,Status
+7970,Operations,44168.0,2023-04-16,Terminated
+1752,HR,80140.0,2016-08-22,Terminated
+8478,HR,144316.0,2023-11-04,Terminated
+5157,Operations,35075.0,2023-04-22,unknown
+1816,Sales,142537.0,2016-05-12,Active
+7766,Engineering,91832.5,2023-08-21,Resigned
+6247,Engineering,59154.0,2023-06-14,On Leave
+5968,Engineering,56158.0,2016-03-29,Terminated
+3344,Operations,137031.0,2018-08-04,On Leave
+1255,HR,90332.0,2015-04-23,Resigned
+4786,Operations,75830.0,2014-12-24,Resigned
+9068,Operations,70001.0,2021-05-18,Terminated
+4245,Finance,137549.0,2015-06-26,Resigned
+1409,HR,134247.0,2020-11-09,Terminated
+7189,Finance,144206.0,2015-09-17,Resigned
+6554,Marketing,59831.0,2015-01-13,Resigned
+3912,HR,59219.0,2018-04-09,unknown
+1939,HR,33101.0,2020-01-13,unknown
+7627,HR,116511.0,2023-11-03,Resigned
+9152,Engineering,55313.0,2021-10-12,Resigned
+9143,Engineering,82227.0,2016-10-03,On Leave
+7050,Finance,73025.0,2016-05-20,Active
+5228,Finance,66517.0,2020-10-21,On Leave
+9895,unknown,143292.0,2015-04-01,Resigned
+9337,Finance,39099.0,2016-12-14,Active
+6853,Engineering,131361.0,2022-08-12,On Leave
+1497,Operations,66585.0,2020-05-11,On Leave
+1613,Operations,91832.5,2015-08-13,On Leave
+6906,Operations,114080.0,2023-06-22,unknown
+2321,Finance,91832.5,2019-09-01,Resigned
+5915,unknown,82386.0,2016-04-01,Resigned
+5531,Engineering,119065.0,2015-12-04,Active
+3536,Marketing,140580.0,2015-05-31,On Leave
+4500,Finance,100282.0,2016-04-27,unknown
+9528,Sales,73404.0,2015-02-10,On Leave
+4155,HR,33617.0,2019-07-29,Resigned
+7479,Engineering,45118.0,2016-12-11,On Leave
+6020,Operations,144955.0,2019-04-05,Resigned
+8043,Marketing,64237.0,2018-09-15,Active
+5590,Sales,53405.0,2021-06-04,unknown
+9580,Sales,106099.0,2017-02-20,unknown
+6761,Engineering,64795.0,2019-07-29,Active
+7183,Engineering,35014.0,2019-07-29,Active
+8502,Sales,44208.0,2015-07-11,Resigned
+6938,HR,108193.0,2021-12-26,On Leave
+3444,HR,86959.0,2018-07-31,Terminated
+8100,Marketing,75309.0,2021-02-02,Active
+7181,HR,91832.5,2019-07-29,unknown
+5186,Sales,133078.0,2024-02-11,Resigned
+5224,Sales,91832.5,2023-10-25,Terminated
+2046,Finance,87199.0,2023-01-15,Terminated
+4764,Sales,91832.5,2019-02-14,Terminated
+9758,HR,97033.0,2022-05-07,Resigned
+5752,Operations,45157.0,2022-02-02,On Leave
+2257,Marketing,80488.0,2016-09-16,Active
+1130,Finance,147899.0,2015-05-21,unknown
+3625,HR,105574.0,2019-07-29,unknown
+9752,Marketing,91832.5,2020-04-24,Active
+4778,HR,63386.0,2022-10-19,Active
+1930,Finance,35817.0,2024-04-22,Terminated
+1463,Sales,122901.0,2021-09-19,Terminated
+9451,Operations,87154.0,2022-11-16,Active
+1811,Finance,30221.0,2021-02-11,Active
+7082,Sales,98146.0,2024-01-21,On Leave
+9167,Finance,135710.0,2014-09-22,On Leave
+4065,Engineering,100575.0,2019-07-29,Resigned
+7133,unknown,120027.0,2015-02-23,Active
+3494,unknown,124297.0,2022-03-19,On Leave
+4109,HR,127248.0,2019-07-29,Active
+2487,Operations,126605.0,2016-03-16,Terminated
+9569,Engineering,117900.0,2019-07-29,On Leave
+6289,Sales,55825.0,2022-11-06,Terminated
+3180,HR,77739.0,2022-10-07,Terminated
+4879,Engineering,86531.0,2018-08-10,Terminated
+6630,HR,39171.0,2016-02-27,Resigned
+6032,Marketing,117062.0,2016-08-10,Terminated
+5960,unknown,91832.5,2024-06-27,Resigned
+9502,Marketing,111678.0,2019-07-29,Active
+4366,Operations,91832.5,2015-01-22,Active
+8739,Sales,116951.0,2022-06-28,On Leave
+5636,Engineering,141151.0,2020-07-04,unknown
+9501,Sales,46334.0,2021-10-18,Resigned
+3491,Sales,124339.0,2019-07-29,unknown
+5983,Engineering,147970.0,2015-11-18,On Leave
+8601,Operations,69363.0,2017-03-09,On Leave
+1925,Sales,96469.0,2022-12-11,On Leave
+7332,Operations,70538.0,2022-10-08,Active
+5425,Operations,117410.0,2024-02-12,On Leave
+2038,unknown,83528.0,2017-01-11,Active
+3851,HR,72753.0,2022-06-08,Terminated
+3669,Finance,91832.5,2019-07-29,Terminated
+3257,Operations,121384.0,2017-12-08,Terminated
+8512,Engineering,68752.0,2021-09-23,Resigned
+9298,Finance,102667.0,2023-12-09,unknown
+8028,Operations,46683.0,2022-05-28,On Leave
+6419,Engineering,55144.0,2020-09-09,unknown
+6127,Engineering,85108.0,2018-11-08,Resigned
+4117,Marketing,117153.0,2022-12-28,Terminated
+5254,Marketing,79695.0,2017-01-26,Active
+3495,Sales,118777.0,2015-07-07,On Leave
+4651,Operations,128059.0,2017-09-15,unknown
+6226,Operations,91832.5,2015-12-28,On Leave
+4580,Finance,52810.0,2024-08-03,Terminated
+7619,Engineering,110676.0,2016-04-23,Active
+6251,Operations,104593.0,2021-04-26,On Leave
+9083,Sales,69446.0,2021-03-02,On Leave
+4617,HR,83225.0,2023-08-01,Resigned
+7705,unknown,101819.0,2017-01-10,On Leave
+1868,HR,139278.0,2019-07-29,Active
+2918,Sales,30053.0,2024-01-28,Active
+1589,Marketing,69829.0,2024-04-23,On Leave
+6951,Sales,67606.0,2019-07-29,Resigned
+9299,HR,57549.0,2018-01-20,unknown
+3727,Engineering,86346.0,2014-11-27,Terminated
+5043,Finance,132990.0,2020-07-19,Active
+7549,Operations,91832.5,2023-01-23,Terminated
+9831,Sales,109516.0,2021-12-19,Resigned
+5259,Engineering,115813.0,2019-07-29,Terminated
+6868,Operations,72237.0,2020-04-21,Resigned
+9767,Marketing,90946.0,2023-11-24,Terminated
+4742,unknown,87905.0,2023-04-25,Terminated
+8364,Operations,87954.0,2016-07-18,Active
+7243,Marketing,118555.0,2015-07-14,Active
+4147,unknown,58010.0,2016-05-04,Terminated
+8092,unknown,97000.0,2019-07-29,Resigned
+9884,Engineering,92021.0,2017-11-27,Resigned
+1466,Engineering,134036.0,2016-11-09,Active
+4625,unknown,148119.0,2019-07-29,Active
+2096,Finance,134336.0,2018-03-15,On Leave
+9943,Finance,126463.0,2024-07-01,Active
+2404,unknown,52241.0,2019-06-05,Resigned
+1956,Operations,116356.0,2022-04-22,Active
+6578,Finance,41114.0,2015-03-07,On Leave
+2072,Marketing,67196.0,2024-08-08,unknown
+3863,Finance,97561.0,2015-04-06,Terminated
+7543,Marketing,117012.0,2020-05-31,Resigned
+4101,Sales,112960.0,2022-02-06,On Leave
+3215,Engineering,111167.0,2016-05-19,Terminated
+9163,Engineering,73933.0,2019-03-14,Terminated
+3314,Finance,42240.0,2021-02-07,Active
+4548,Marketing,137272.0,2016-02-12,Terminated
+3702,HR,128453.0,2023-03-18,Resigned
+3447,HR,60784.0,2017-08-14,Terminated
+7974,HR,118184.0,2024-04-23,Resigned
+7893,Engineering,70687.0,2022-02-11,Resigned
+6382,Operations,59444.0,2015-01-16,Active
+1832,Engineering,135717.0,2019-11-26,On Leave
+9545,Operations,56100.0,2022-07-07,unknown
+4032,Marketing,49313.0,2019-07-29,Terminated
+4854,Finance,33201.0,2019-12-30,Terminated
+6109,HR,36057.0,2016-09-10,Resigned
+3364,Marketing,62092.0,2021-03-29,Terminated
+7474,Marketing,92277.0,2018-12-19,Active
+8724,Finance,110120.0,2018-08-29,Terminated
+7412,unknown,141376.0,2017-02-04,Active
+4775,Finance,130727.0,2019-07-09,Resigned
+6055,Sales,39545.0,2016-10-16,Resigned
+4330,Finance,89692.0,2017-05-21,Resigned
+8273,HR,84321.0,2019-10-04,Active
+5337,Operations,91832.5,2021-07-10,Terminated
+3148,Operations,112544.0,2018-06-01,Active
+7593,HR,105454.0,2016-05-17,Terminated
+4027,Operations,55485.0,2019-04-20,Terminated
+8994,Finance,124155.0,2024-08-07,Active
+9188,Sales,121272.0,2019-07-29,On Leave
+4336,Operations,80328.0,2019-01-23,Resigned
+1436,Sales,94799.0,2019-07-29,Terminated
+1801,HR,82383.0,2018-11-17,Terminated
+1821,Sales,61979.0,2023-06-28,Active
+1506,Marketing,49342.0,2023-08-24,On Leave
+2169,Engineering,115990.0,2023-01-23,Resigned
+4403,Marketing,120128.0,2016-09-19,On Leave
+6297,HR,30726.0,2020-08-03,Resigned
+4746,Operations,147002.0,2021-06-14,Terminated
+1306,unknown,128430.0,2018-08-30,Terminated
+9619,Sales,142779.0,2016-09-26,Active
+9932,Finance,130931.0,2015-05-29,unknown
+8574,Engineering,146059.0,2023-03-23,On Leave
+5808,Finance,43970.0,2022-10-28,On Leave
+6442,unknown,132029.0,2019-07-29,Resigned
+4956,Operations,91832.5,2022-05-16,Active
+1266,Sales,58683.0,2019-07-29,Terminated
+8320,Operations,91832.5,2017-05-05,Active
+6800,Finance,135396.0,2024-01-13,On Leave
+2682,Finance,91832.5,2023-03-15,Active
+4214,Engineering,97889.0,2017-01-03,Terminated
+2937,Engineering,90889.0,2023-10-07,Active
+9315,Sales,91832.5,2024-08-15,On Leave
+2739,unknown,103060.0,2015-12-29,unknown
+8418,Finance,62662.0,2016-01-30,Resigned
+4372,Finance,141193.0,2019-10-07,Resigned
+3504,HR,45906.0,2018-05-06,Terminated
+3722,Finance,89829.0,2015-10-05,Terminated
+7325,Sales,47477.0,2023-06-10,unknown
+6828,unknown,91832.5,2015-02-25,On Leave
+9377,HR,90901.0,2015-06-09,Terminated
+3645,HR,117500.0,2018-06-04,unknown
+2115,Sales,99616.0,2021-01-22,Terminated
+9851,unknown,103259.0,2021-04-17,On Leave
+9194,Engineering,108047.0,2017-05-30,On Leave
+5638,HR,71588.0,2024-08-07,Active
+3424,Engineering,128992.0,2019-12-30,Resigned
+3643,Finance,91832.5,2023-06-06,Terminated
+6228,HR,88008.0,2023-03-09,Resigned
+6773,HR,110301.0,2023-09-19,Resigned
+1042,Operations,136824.0,2017-03-10,Active
+8453,unknown,91832.5,2015-07-04,Resigned
+1579,HR,146918.0,2019-02-09,Resigned
+4575,Finance,91832.5,2015-02-04,Terminated
+7090,Engineering,85933.0,2022-08-30,On Leave
+4161,Engineering,138864.0,2019-03-03,Terminated
+1196,Operations,148863.0,2018-01-20,Terminated
+3203,Marketing,101810.0,2019-07-29,Resigned
+8794,Finance,88446.0,2016-05-24,Resigned
+5050,Engineering,147598.0,2022-04-02,Terminated
+3947,Sales,50861.0,2019-11-19,Terminated
+4474,Finance,91832.5,2017-01-08,Resigned
+6599,Finance,142917.0,2022-01-02,On Leave
+5409,Marketing,91832.5,2018-04-01,unknown
+3506,Engineering,88991.0,2015-05-20,Terminated
+9462,Finance,63972.0,2022-08-09,On Leave
+4073,Operations,128536.0,2024-08-14,Terminated
+2323,Operations,62406.0,2022-07-21,Active
+5773,Engineering,140082.0,2017-02-10,Resigned
+9915,Operations,113579.0,2019-07-29,Terminated
+4840,Sales,66347.0,2022-10-18,Terminated
+4396,Marketing,91832.5,2014-10-09,Terminated
+1776,Operations,131931.0,2017-10-18,On Leave
+8758,Operations,98327.0,2024-01-05,Terminated
+5735,Sales,93517.0,2023-05-24,Active
+2332,Marketing,112149.0,2021-08-04,On Leave
+6739,unknown,61358.0,2023-08-26,Resigned
+4121,Marketing,65992.0,2024-06-15,unknown
+1457,HR,87654.0,2019-07-28,Terminated
+3026,Engineering,40155.0,2015-12-31,Active
+6716,Engineering,123525.0,2021-10-08,Terminated
+9075,HR,67450.0,2022-11-08,Active
+2036,unknown,60735.0,2024-09-02,On Leave
+5623,HR,91832.5,2019-12-06,Terminated
+4954,Finance,74020.0,2016-02-18,unknown
+9744,Finance,71904.0,2015-01-31,Active
+2099,Engineering,147050.0,2020-01-18,Terminated
+1963,Finance,100798.0,2016-02-25,Resigned
+5592,unknown,40561.0,2019-07-29,Resigned
+7092,HR,48136.0,2018-09-23,Terminated
+5033,HR,49769.0,2017-03-01,unknown
+1920,Operations,60311.0,2020-05-01,Resigned
+2261,Operations,91832.5,2017-05-05,Terminated
+9916,HR,91832.5,2023-02-23,Resigned
+7495,Engineering,50028.0,2023-06-25,Terminated
+9302,HR,122591.0,2021-11-28,Active
+6992,HR,58043.0,2018-08-17,Active
+3560,Sales,38418.0,2019-07-24,On Leave
+7568,HR,84377.0,2019-08-03,Resigned
+1983,unknown,83424.0,2020-07-15,On Leave
+7699,Engineering,73369.0,2020-08-05,Active
+8351,Sales,101121.0,2021-07-07,Terminated
+2363,Operations,91832.5,2022-11-16,Active
+4015,Marketing,84496.0,2017-02-01,Active
+5420,Engineering,91832.5,2015-05-21,unknown
+3435,Finance,57110.0,2017-01-30,On Leave
+2827,Engineering,139168.0,2019-03-20,Resigned
+7896,unknown,85069.0,2024-06-03,Active
+5116,Finance,81049.0,2017-11-15,Active
+2319,Finance,148598.0,2020-02-05,Resigned
+3481,unknown,130898.0,2018-10-07,Active
+1228,Engineering,106556.0,2018-08-04,Resigned
+1386,Marketing,91832.5,2019-01-21,Resigned
+9839,Marketing,32560.0,2018-08-01,Resigned
+2798,Engineering,142293.0,2016-07-25,Terminated
+3112,HR,145429.0,2022-06-09,On Leave
+6024,HR,130348.0,2020-07-25,On Leave
+4299,Operations,105456.0,2018-07-07,unknown
+4961,Marketing,91832.5,2022-08-29,On Leave
+3366,Sales,92518.0,2019-07-29,On Leave
+4491,Marketing,91832.5,2024-05-14,On Leave
+2465,Marketing,91832.5,2015-03-20,Active
+8856,Marketing,69139.0,2016-11-11,Terminated
+8847,Operations,128759.0,2016-02-16,On Leave
+8544,HR,81116.0,2015-05-16,unknown
+9372,Operations,141863.0,2021-12-26,On Leave
+7731,Operations,146869.0,2024-07-30,On Leave
+8870,Operations,139540.0,2020-01-18,Terminated
+8013,HR,84921.0,2023-04-21,Resigned
+5167,HR,100545.0,2017-11-09,Terminated
+3538,Marketing,127978.0,2024-08-07,unknown
+5407,Operations,126289.0,2017-03-03,Active
+1182,Sales,101582.0,2015-02-20,Terminated
+3575,HR,134840.0,2021-07-02,Resigned
+2948,Engineering,109069.0,2015-08-14,On Leave
+5273,Engineering,147677.0,2020-03-27,Active
+8294,Engineering,58906.0,2024-03-25,Terminated
+8224,Finance,93993.0,2020-10-30,Resigned
+7976,Marketing,58760.0,2023-01-06,Resigned
+8068,unknown,65774.0,2023-12-27,Terminated
+9023,Marketing,87125.0,2018-03-04,Resigned
+8459,unknown,93654.0,2016-12-20,Terminated
+4898,Sales,33804.0,2024-08-15,unknown
+1354,Marketing,80968.0,2019-07-29,On Leave
+6711,Engineering,74057.0,2020-01-14,Terminated
+3970,HR,117670.0,2021-03-15,Terminated
+3705,Marketing,119016.0,2017-07-12,Active
+1933,Finance,134614.0,2024-02-09,On Leave
+8359,HR,82994.0,2021-09-09,Terminated
+7872,HR,124919.0,2021-01-28,Resigned
+4427,Operations,91832.5,2021-12-03,Resigned
+4441,unknown,140166.0,2021-09-23,unknown
+5855,HR,91261.0,2018-07-03,Active
+4055,HR,46728.0,2019-07-29,Terminated
+6807,Engineering,111560.0,2023-03-31,Resigned
+5245,Engineering,100008.0,2017-07-20,Active
+4566,Marketing,33534.0,2023-01-21,Active
+2130,unknown,148872.0,2014-10-10,Terminated
+6140,Marketing,81645.0,2024-07-21,Resigned
+2605,Engineering,107580.0,2019-07-29,On Leave
+5700,Marketing,103975.0,2015-10-18,Resigned
+6616,HR,116900.0,2015-05-01,On Leave
+5765,Engineering,33552.0,2024-07-18,unknown
+5868,Marketing,41003.0,2022-03-27,Resigned
+7666,unknown,114246.0,2020-10-27,On Leave
+5873,Marketing,86179.0,2024-08-01,Active
+4412,Sales,47786.0,2020-11-16,Active
+6282,Marketing,91832.5,2020-04-14,Resigned
+9431,Sales,90515.0,2021-09-09,Terminated
+5141,Marketing,53819.0,2019-07-29,Active
+7759,Operations,36590.0,2018-08-17,Resigned
+9551,Operations,64099.0,2020-07-05,On Leave
+8900,Finance,79689.0,2018-08-03,Active
+4381,unknown,72906.0,2023-04-12,Resigned
+5754,Operations,57742.0,2023-07-17,Resigned
+5818,Marketing,89598.0,2020-07-18,Terminated
+8857,Engineering,72840.0,2021-07-27,On Leave
+8016,Engineering,74236.0,2015-01-07,On Leave
+6030,Sales,129775.0,2020-07-15,On Leave
+5964,Engineering,145296.0,2014-11-27,Resigned
+7563,HR,79692.0,2022-12-14,Resigned
+9660,Finance,91832.5,2019-07-10,On Leave
+4440,Operations,128567.0,2022-09-15,unknown
+7057,Finance,139041.0,2017-10-12,Terminated
+9065,HR,91832.5,2016-03-29,Resigned
+7856,Operations,63065.0,2022-04-07,Resigned
+8119,Sales,139433.0,2019-07-29,unknown
+6510,HR,40735.0,2020-12-10,Terminated
+1417,HR,91644.0,2019-05-12,unknown
+6843,Finance,32540.0,2020-12-09,On Leave
+5367,unknown,128176.0,2016-06-05,On Leave
+1070,Finance,100702.0,2015-12-12,Terminated
+8448,Finance,36826.0,2019-07-29,Resigned
+6183,Engineering,75870.0,2016-10-06,Active
+1190,HR,59389.0,2020-09-05,Terminated
+2581,Finance,115215.0,2019-07-30,Active
+3492,HR,91832.5,2020-09-17,Resigned
+3686,Engineering,132397.0,2022-07-13,Active
+6527,unknown,115426.0,2022-06-10,Terminated
+7362,Finance,35276.0,2018-10-09,Resigned
+6084,unknown,128858.0,2017-02-09,Resigned
+7552,Operations,34067.0,2023-04-04,Terminated
+9946,unknown,62411.0,2021-08-29,Resigned
+6101,Marketing,91832.5,2020-01-09,Active
+7915,HR,91832.5,2019-07-29,On Leave
+8283,Finance,32671.0,2017-02-03,Terminated
+1767,unknown,91832.5,2016-10-11,unknown
+2174,Finance,49973.0,2020-04-07,Resigned
+8706,Finance,61266.0,2014-12-04,On Leave
+3264,HR,46544.0,2020-03-14,Active
+9084,Finance,92070.0,2017-10-03,Terminated
+7167,HR,91832.5,2018-03-15,Resigned
+2715,Marketing,44993.0,2019-07-29,Terminated
+6537,Operations,103920.0,2019-07-29,Active
+2856,Finance,58569.0,2019-07-29,On Leave
+1565,Finance,90952.0,2018-04-17,Active
+6210,Finance,121680.0,2019-04-24,Active
+7081,Sales,63586.0,2022-01-31,Resigned
+9931,unknown,130518.0,2017-07-01,Terminated
+5842,Engineering,78351.0,2019-04-20,Active
+4488,Operations,51992.0,2019-11-04,Active
+6117,Operations,109415.0,2018-02-02,On Leave
+4652,Sales,109593.0,2016-07-29,On Leave
+8280,Engineering,128032.0,2017-10-26,unknown
+7590,Sales,124156.0,2019-06-25,Terminated
+8721,Marketing,45012.0,2023-09-17,Resigned
+5616,Engineering,131946.0,2023-12-28,Terminated
+4962,Operations,137387.0,2019-07-29,On Leave
+8081,Operations,51465.0,2024-07-12,Terminated
+3439,Sales,70768.0,2019-07-29,Active
+6508,Marketing,44168.0,2016-04-10,Terminated
+9664,Sales,105849.0,2024-03-07,Terminated
+7303,HR,33365.0,2015-09-14,Resigned
+1203,HR,70888.0,2019-01-20,Active
+3363,Marketing,105470.0,2019-03-27,Resigned
+6359,Finance,118781.0,2020-11-20,On Leave
+8474,Finance,149016.0,2018-04-18,Terminated
+4504,HR,79192.0,2019-07-29,Terminated
+8067,HR,81990.0,2015-11-16,On Leave
+4653,unknown,123718.0,2024-05-03,Resigned
+6846,Engineering,55995.0,2023-04-18,Active
+2495,Finance,39961.0,2022-10-05,Resigned
+1403,Sales,107607.0,2015-02-28,Resigned
+8466,Engineering,120520.0,2015-05-05,Active
+8101,Sales,138864.0,2016-09-27,Terminated
+4667,HR,112213.0,2019-07-29,Resigned
+7225,Engineering,61830.0,2014-10-25,On Leave
+2113,Sales,43356.0,2022-04-11,Active
+8720,Sales,121382.0,2019-05-01,Terminated
+6985,Engineering,131250.0,2015-05-24,Active
+4563,Marketing,69529.0,2019-01-19,On Leave
+2921,Finance,141449.0,2016-02-26,Active
+9713,Operations,119687.0,2019-07-29,Active
+3443,Sales,108697.0,2016-04-06,unknown
+7917,Finance,135582.0,2023-12-21,On Leave
+8190,Operations,45866.0,2015-12-10,unknown
+7504,unknown,134363.0,2016-01-17,On Leave
+8853,HR,104177.0,2019-07-29,Active
+2474,Operations,132581.0,2022-06-30,unknown
+9710,Finance,35383.0,2021-11-01,On Leave
+9970,Sales,75508.0,2021-12-27,On Leave
+8202,Operations,99827.0,2019-07-29,Resigned
+7288,HR,86148.0,2016-08-20,On Leave
+8355,Engineering,116706.0,2015-10-10,Active
+8208,Sales,78571.0,2019-04-29,Resigned
+7801,HR,39038.0,2015-09-02,On Leave
+7255,HR,91832.5,2019-07-29,On Leave
+7613,Operations,114874.0,2017-11-28,Resigned
+7797,unknown,74725.0,2014-09-08,On Leave
+3582,Engineering,31658.0,2022-08-23,Active
+4446,Sales,141355.0,2015-09-07,Active
+3971,Sales,85057.0,2019-02-16,unknown
+3322,Finance,137784.0,2020-12-28,Active
+6725,Engineering,94251.0,2021-09-21,Resigned
+6308,Operations,91832.5,2017-08-24,On Leave
+7160,unknown,86822.0,2020-09-12,Resigned
+7756,Engineering,77472.0,2016-04-19,unknown
+9321,Operations,113307.0,2015-04-07,unknown
+1378,Operations,146860.0,2022-12-20,Resigned
+2439,Sales,138620.0,2023-08-22,Active
+1897,Finance,91832.5,2021-09-06,On Leave
+7322,Marketing,122708.0,2016-03-12,Terminated
+8361,unknown,50052.0,2016-02-19,Active
+8309,unknown,87080.0,2019-07-29,Active
+7726,HR,53086.0,2020-05-21,Terminated
+5309,Operations,126180.0,2021-08-23,Terminated
+7679,Marketing,98386.0,2023-10-01,Resigned
+7918,Sales,115256.0,2019-07-29,Active
+2285,HR,65400.0,2018-05-04,Terminated
+1040,HR,110728.0,2023-09-29,On Leave
+9178,Sales,135932.0,2020-07-21,Active
+5071,Engineering,100539.0,2019-07-29,Resigned
+7400,Operations,131533.0,2016-03-25,Terminated
+4184,Sales,93372.0,2024-07-12,Active
+1209,unknown,90931.0,2017-04-18,Active
+3002,Operations,87091.0,2024-06-14,Terminated
+7977,Marketing,138230.0,2019-06-03,Terminated
+3992,Finance,125817.0,2017-06-27,Terminated
+1369,Operations,107656.0,2019-04-13,unknown
+8732,Marketing,65179.0,2020-04-19,Terminated
+1498,Finance,91832.5,2018-09-27,unknown
+9611,HR,141635.0,2015-03-26,Active
+3440,HR,62177.0,2017-02-01,Active
+5838,HR,138885.0,2021-08-22,unknown
+9179,unknown,91832.5,2016-09-03,On Leave
+6379,Engineering,66559.0,2019-07-29,Active
+4710,Finance,145557.0,2024-04-03,On Leave
+4069,HR,89087.0,2016-11-18,Resigned
+9382,Sales,61963.0,2016-01-20,Resigned
+4562,Finance,128366.0,2015-06-11,Terminated
+4320,Finance,90910.0,2020-05-22,Resigned
+4424,Engineering,104691.0,2022-09-13,Terminated
+7365,Marketing,109997.0,2017-09-08,Terminated
+4316,unknown,117580.0,2019-07-29,Active
+4649,HR,91832.5,2017-07-01,unknown
+1645,Sales,74092.0,2022-11-20,On Leave
+4540,Sales,91832.5,2023-08-11,Terminated
+1069,unknown,91832.5,2017-06-10,Terminated
+2354,Sales,141536.0,2019-06-04,On Leave
+5534,Engineering,72600.0,2018-04-03,Terminated
+2110,Operations,53834.0,2022-06-26,Resigned
+2748,Engineering,93904.0,2019-07-29,Terminated
+8397,Operations,57802.0,2018-07-22,Terminated
+5560,HR,76507.0,2019-03-15,Terminated
+5345,Sales,134573.0,2019-04-03,Active
+3147,Finance,63862.0,2015-01-09,Resigned
+9281,Marketing,74608.0,2021-11-13,Terminated
+4816,Finance,66655.0,2020-08-30,Resigned
+6198,Operations,145385.0,2017-09-20,Resigned
+2774,unknown,108139.0,2019-07-29,Resigned
+2864,Engineering,121905.0,2017-03-13,On Leave
+5255,Engineering,145357.0,2016-09-03,Terminated
+1586,Engineering,66211.0,2023-06-13,Active
+3772,Marketing,102848.0,2024-01-11,Active
+9544,HR,31330.0,2016-04-01,Active
+4239,Engineering,97715.0,2019-06-09,Active
+6501,Operations,55042.0,2015-05-30,Terminated
+7210,Sales,41221.0,2023-01-04,Active
+5683,Marketing,61635.0,2019-02-19,unknown
+4951,unknown,124381.0,2022-10-10,On Leave
+2862,Operations,83271.0,2019-03-19,Active
+3910,Engineering,94038.0,2022-09-23,Resigned
+1009,Sales,102768.0,2023-03-24,Active
+3062,unknown,129374.0,2023-12-01,Terminated
+3252,Operations,61499.0,2020-07-18,unknown
